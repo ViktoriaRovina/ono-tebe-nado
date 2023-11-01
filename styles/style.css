@@ -65,7 +65,7 @@
   .cover {
     position: relative;
     z-index: 1;
-    padding: 165px 50px;
+    padding: 165px 50px 50px 50px;
     color: #fff;
     background-color: #a7a7a7;
     background-image: url("../images/cover.jpg");
