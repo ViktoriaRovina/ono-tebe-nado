@@ -10,6 +10,11 @@ body {
   font-family: Raleway, sans-serif;
 }
 
+.general_size {
+  max-width: 1440px;
+  margin: auto;
+}
+
 h1,
 h2,
 h3,
